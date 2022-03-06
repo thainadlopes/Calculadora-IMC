@@ -3,4 +3,4 @@ Calculadora IMC (Índice de Massa Corporal) desenvolvida em JavaScript
 
 - [Calculadora IMC](https://calculadora-imcss.netlify.app/)
 
-(./imagem/img.png)
+(Calculadora IMC/imagem/img.png)
